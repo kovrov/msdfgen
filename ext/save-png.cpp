@@ -2,7 +2,7 @@
 #include "save-png.h"
 
 #include "../core/arithmetics.hpp"
-#include <lodepng.h>
+#include "../include/lodepng.h"
 
 namespace msdfgen {
 
